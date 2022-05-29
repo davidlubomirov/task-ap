@@ -1,0 +1,6 @@
+zadacha.db
+.vscode
+.DS_Store
+README.md
+__pycache__
+prepare.py
